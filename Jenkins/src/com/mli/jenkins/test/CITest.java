@@ -7,5 +7,6 @@ public class CITest {
 		System.out.println("second build");
 		System.out.println("third build");
 		System.out.println("four build");
+		System.out.println("傻子");
 	}
 }
