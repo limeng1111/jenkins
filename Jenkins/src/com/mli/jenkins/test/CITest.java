@@ -4,5 +4,6 @@ public class CITest {
 
 	public static void main(String[] args) {
 		System.out.println("first build");
+		System.out.println("second build");
 	}
 }
